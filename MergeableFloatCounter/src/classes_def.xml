@@ -1,0 +1,4 @@
+<lcgdict>
+ <class name="edm::MergeableFloatCounter"/>
+ <class name="edm::Wrapper<edm::MergeableFloatCounter>"/>
+</lcgdict>
