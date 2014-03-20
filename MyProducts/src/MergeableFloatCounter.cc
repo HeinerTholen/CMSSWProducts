@@ -1,4 +1,4 @@
-#include "MyProducts/MergeableFloatCounter/interface/MergeableFloatCounter.h"
+#include "MyProducts/MyProducts/interface/MergeableFloatCounter.h"
 #include "FWCore/MessageLogger/interface/MessageLogger.h"
 
 namespace edm 
